@@ -40,12 +40,10 @@
     "cordovaDependencies": {
       "2.0.0": {
         "cordova": ">=10.0.0",
-        "cordova-android": ">=8.0.0",
         "cordova-ios": ">=6.0.0"
       },
       "1.0.0": {
         "cordova": ">=10.0.0",
-        "cordova-android": ">=8.0.0",
         "cordova-ios": ">=5.1.1"
       }
     }
@@ -55,7 +53,6 @@
     "id": "@havesource/cordova-plugin-push",
     "platforms": [
       "ios",
-      "android",
       "windows",
       "browser"
     ]
