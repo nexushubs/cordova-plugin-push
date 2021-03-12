@@ -1,3 +1,8 @@
+# LVFANG NOTES
+
+这是 fork 版去掉 Android 部分
+安卓使用 mobpush
+
 # Cordova Plugin Push
 
 [![Build Status](https://travis-ci.org/havesource/cordova-plugin-push.svg)](https://travis-ci.org/havesource/cordova-plugin-push)
